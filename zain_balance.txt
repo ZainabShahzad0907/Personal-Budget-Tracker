@@ -1,0 +1,4 @@
+Total expenses:2000
+Total income:12000
+Budget Limit:16000
+Balance:14000
